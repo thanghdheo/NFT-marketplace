@@ -1,0 +1,6 @@
+export * from './Header'
+export * from './Hero'
+export * from './Artworks'
+export * from './Transactions'
+export * from './Footer'
+export * from './NFT'
